@@ -1,3 +1,0 @@
-pip install elasticsearch
-pip install pypdf2
-pip install elasticsearch-dsl
